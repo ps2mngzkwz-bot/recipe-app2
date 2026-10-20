@@ -1,1 +1,16 @@
-
+[
+  {
+    "name": "Lentil Soup",
+    "category": "Soup",
+    "calories": 180,
+    "vegan": true,
+    "ingredients": ["red lentil", "onion", "carrot", "butter", "salt"]
+  },
+  {
+    "name": "Tomato Salad",
+    "category": "Salad",
+    "calories": 120,
+    "vegan": true,
+    "ingredients": ["tomato", "cucumber", "olive oil", "lemon"]
+  }
+]
